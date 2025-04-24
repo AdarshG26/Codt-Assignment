@@ -3,4 +3,5 @@ b = "Assignment"
 fun = (n)=> {
     console.log(n);
     console.log("sign in feature");
+    console.log("sign up");
 }
