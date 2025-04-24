@@ -2,5 +2,5 @@ a = 10
 b = "Assignment"
 fun = (n)=> {
     console.log(n);
-    console.log("sign in");
+    console.log("sign up");
 }
