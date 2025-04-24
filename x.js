@@ -4,8 +4,3 @@ fun = (n)=> {
     console.log(n);
     console.log("sign in");
 }
-
-signin = ()=> {
-    console.log("sign in");
-    
-}
